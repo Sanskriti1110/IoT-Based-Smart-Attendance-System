@@ -12,4 +12,12 @@ Softwares used
   <li>Excel File</li>
  </ul>
 
-for the entire procedure, go through the pdf file uploaded.
+For the entire procedure, go through the pdf file uploaded.
+
+\*\*IMPORTANT**
+
+Create 2 new folders under the folder "project trials" namely -
+<ul>
+  <li>Dataset</li>
+  <li>Attendance</li>
+</ul>

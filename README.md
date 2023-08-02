@@ -11,3 +11,5 @@ Softwares used
   <li>Fast2SMS</li>
   <li>Excel File</li>
  </ul>
+
+for the entire procedure, go through the pdf file uploaded.
